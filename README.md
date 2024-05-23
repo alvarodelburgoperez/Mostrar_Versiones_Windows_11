@@ -1,6 +1,6 @@
 # Mostrar Versiones (Instalación Windows 11)
 
-Cuando te descargas una iso de Windows o creas un medio de instalación puede ser que no te deje elegir que versión de Windows quieres instalar (Home, Pro, Education, etc)
+Cuando te descargas una iso de Windows o creas un medio de instalación puede ser que no te deje elegir que versión de Windows quieres instalar (Home, Pro, Education, etc).
 
 Para solucionar este problema, hay que añadir un archivo ei.cfg a la carpeta 'sources' del usb que vamos a utilizar para la instalacion.
 
